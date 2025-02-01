@@ -2,13 +2,21 @@
 <br>
 Highlights:
 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+<br>
 🎃 Authentication && Authorization with JWT
+<br>
 👾 Real-time messaging with Socket.io
+<br>
 🚀 Online user status
+<br>
 👌 Global state management with Zustand
+<br>
 🐞 Error handling both on the server and on the client
+<br>
 ⭐ At the end Deployment like a pro for FREE!
+<br>
 ⏳ And much more!
+<br>
 <br>
 Setup .env file:
 MONGODB_URI=...
